@@ -28,15 +28,23 @@ langchain_community
 langchain_together 
 faiss-cpu==1.7.3
 ## How to configure 
-1. Clone the Repository https://github.com/devananda6200/Langvisor.git using the command
-  git clone https://github.com/your-username/your-repository.git
-  cd your-repository
+1. Clone the Repository https://github.com/devananda6200/Langvisor.git using the command:
+   
+   git clone https://github.com/your-username/your-repository.git
+  
+    cd your-repository
+ 
 2. Create a Virtual Environment:
+
    python -m venv venv
-   venv\Scripts\activate # On Windows use
-3. Set Together API Key
-4. Run the Streamlit App:
-  streamlit run app.py
+   
+   venv\Scripts\activate     # On Windows use
+   
+4. Set Together API Key
+   
+5. Run the Streamlit App:
+  
+    streamlit run app.py
    
 
 ## How to Run
