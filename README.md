@@ -42,10 +42,10 @@ faiss-cpu==1.7.3
    
 4. Set Together API Key
    
-5. Run the Streamlit App:
   
-    streamlit run app.py
    
 
 ## How to Run
-Instructions for running
+ Run the Streamlit App:
+  
+ streamlit run app.py
